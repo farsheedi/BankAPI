@@ -1,0 +1,14 @@
+C:\Users\Farsheed's PC\source\repos\BankAPI\BankAPI\bin\Debug\netcoreapp2.1\BankAPI.deps.json
+C:\Users\Farsheed's PC\source\repos\BankAPI\BankAPI\bin\Debug\netcoreapp2.1\BankAPI.runtimeconfig.json
+C:\Users\Farsheed's PC\source\repos\BankAPI\BankAPI\bin\Debug\netcoreapp2.1\BankAPI.runtimeconfig.dev.json
+C:\Users\Farsheed's PC\source\repos\BankAPI\BankAPI\bin\Debug\netcoreapp2.1\BankAPI.dll
+C:\Users\Farsheed's PC\source\repos\BankAPI\BankAPI\obj\Debug\netcoreapp2.1\BankAPI.csprojAssemblyReference.cache
+C:\Users\Farsheed's PC\source\repos\BankAPI\BankAPI\obj\Debug\netcoreapp2.1\BankAPI.csproj.CoreCompileInputs.cache
+C:\Users\Farsheed's PC\source\repos\BankAPI\BankAPI\obj\Debug\netcoreapp2.1\BankAPI.RazorAssemblyInfo.cache
+C:\Users\Farsheed's PC\source\repos\BankAPI\BankAPI\obj\Debug\netcoreapp2.1\BankAPI.RazorAssemblyInfo.cs
+C:\Users\Farsheed's PC\source\repos\BankAPI\BankAPI\obj\Debug\netcoreapp2.1\BankAPI.AssemblyInfoInputs.cache
+C:\Users\Farsheed's PC\source\repos\BankAPI\BankAPI\obj\Debug\netcoreapp2.1\BankAPI.AssemblyInfo.cs
+C:\Users\Farsheed's PC\source\repos\BankAPI\BankAPI\obj\Debug\netcoreapp2.1\BankAPI.RazorTargetAssemblyInfo.cache
+C:\Users\Farsheed's PC\source\repos\BankAPI\BankAPI\bin\Debug\netcoreapp2.1\BankAPI.pdb
+C:\Users\Farsheed's PC\source\repos\BankAPI\BankAPI\obj\Debug\netcoreapp2.1\BankAPI.dll
+C:\Users\Farsheed's PC\source\repos\BankAPI\BankAPI\obj\Debug\netcoreapp2.1\BankAPI.pdb
